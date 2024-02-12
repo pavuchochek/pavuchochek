@@ -4,8 +4,7 @@
 
 [![pavuchok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pavuchochekk&theme=jolly&hide_border=true&v=2&&langs_count=10&custom_title=Coding%20Stats)](https://wakatime.com/@caec66d3-3496-43b9-bf0c-6f21d1f3f8a2)
 
-[![pavuchok's activity stats]("https://github-readme-stats.vercel.app/api?username=pavuchochekk&show_icons=true&theme=gruvbox&hide_border=true")]
-[("https://github-readme-streak-stats.herokuapp.com/?user=titoutan&theme=gruvbox&hide_border=true")]
+[![pavuchok's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavuchochek&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/pavuchochek/github-readme-stats)
 
 ![Java]( 	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
